@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 # download dataset
 wget http://files.grouplens.org/datasets/movielens/ml-20m.zip

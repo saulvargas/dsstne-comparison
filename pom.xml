@@ -22,7 +22,7 @@
         <dependency>
             <groupId>org.ranksys</groupId>
             <artifactId>RankSys</artifactId>
-            <version>3334a24ae0</version>
+            <version>49e773168a</version>
         </dependency>
     </dependencies>
     
